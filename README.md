@@ -1,4 +1,4 @@
-[![MasterHead]](./profile-banner.gif)
+![MasterHead](./profile-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Lâm Bùi</h1>
 <h3 align="center">A passionate software developer from Vietnam</h3>
