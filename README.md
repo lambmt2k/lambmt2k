@@ -1,5 +1,9 @@
+[![MasterHead]](./profile-banner.gif)
+
 <h1 align="center">Hi 👋, I'm Lâm Bùi</h1>
 <h3 align="center">A passionate software developer from Vietnam</h3>
+
+<img align="right" alt="Coding" width="400" src="./profile-image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lambmt2k&label=Profile%20views&color=0e75b6&style=flat" alt="lambmt2k" /> </p>
 
